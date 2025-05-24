@@ -44,8 +44,8 @@ Key insights from the donation dataset include:
 
 Based on the findings, the following strategies are suggested:
 
-- **Prioritize High-Value Donors**: Focus marketing and stewardship efforts on Cluster 2 donors (high-value and loyal) to encourage continued and increased giving.
-- **Reactivate Low-Engagement Donors**: Create re-engagement campaigns for Cluster 0 with personalized messages or small incentives.
-- **Campaign Optimization**: Invest more in the top-performing campaigns identified in the analysis and consider discontinuing or revising underperforming ones.
-- **Leverage Seasonality**: Plan major fundraising pushes in Q4 (October–December) to capitalize on donor generosity during the holiday season.
-- **Predictive Targeting**: Use the donation prediction model to forecast high-potential donors and proactively allocate resources to cultivate them.
+- Focus on High-Value Donors: Prioritize marketing and stewardship efforts for Cluster 2 to increase giving.
+- Re-engage Low-Activity Donors: Target Cluster 0 with personalized campaigns or incentives.
+- Optimize Campaign Portfolio: Scale high-performing campaigns and revise or sunset underperformers.
+- Leverage Seasonal Trends: Plan fundraising drives in Q4 to align with peak giving periods.
+- Use Predictive Insights: Apply the donation model to forecast and nurture high-potential donors.
