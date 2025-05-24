@@ -7,7 +7,7 @@ A donation data analytics project that combines data cleaning, exploratory data 
 This project analyzes a fictional dataset of donation transactions. It was designed to simulate real-world nonprofit analytics tasks such as:
 
 - Identifying top-performing campaigns
-- Understanding donor behavior
+- Understanding donor behaviour
 - Visualizing donation trends over time
 - Segmenting donors using clustering
 - Predicting future donation potential
@@ -34,8 +34,8 @@ The app is built with **Streamlit** and provides interactive visualizations and 
 Key insights from the donation dataset include:
 
 - **Campaign Effectiveness**: A small number of campaigns generated the majority of donations, suggesting focused fundraising drives were most successful.
-- **Donor Behavior**: Donors vary widely in behavior—some give small frequent donations, while others contribute large one-time amounts.
-- **Monthly Trends**: Donation volume peaked in November and December, indicating strong seasonal giving behavior near the end of the year.
+- **Donor Behaviour**: Donors vary widely in behaviour—some give small frequent donations, while others contribute large one-time amounts.
+- **Monthly Trends**: Donation volume peaked in November and December, indicating strong seasonal giving behaviour near the end of the year.
 - **Clustering**: K-Means segmentation revealed three donor types:
   - **Cluster 0**: Infrequent, low-value donors
   - **Cluster 1**: Consistent mid-range donors
