@@ -10,7 +10,6 @@ This project analyzes a fictional dataset of donation transactions. It was desig
 - Understanding donor behaviour
 - Visualizing donation trends over time
 - Segmenting donors using clustering
-- Predicting future donation potential
 
 The app is built with **Streamlit** and provides interactive visualizations and exportable insights for campaign managers and analysts.
 
